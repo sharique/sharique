@@ -2,21 +2,26 @@
 
 Open source contributor, Drupal architect, and full stack developer based in **Berlin, Germany** 🇩🇪
 
-Started writing code during graduation in C and C++ and fall in love with programming. Along the way I found perfect partner Linux, still using as primary OS on personal laptop.
+I started writing code in C and C++ during graduation and fell in love with programming. I found the perfect partner in Linux, which I've used as my primary OS ever since. Over the years, I've worked with various tech stacks and learned the strengths and weaknesses of each.
 
-I've spent 20+ years building things for the web — from early ASP.NET days through to enterprise Drupal platforms serving global pharmaceutical and publishing clients. Along the way I got a bit obsessed with open source, and now I maintain a handful of Drupal modules and contributed to a few other open source projects.
+After working for quite some time with Drupal, I started exploring new tech again. I'm expanding my expertise in modern JavaScript frameworks, Cloud (AWS) and Infrastructure as Code (IaC). I've created repositories for projects I'm working on while learning new things, here's what I'm working on:
 
-I don't a favorite team in IPL.
+* Markdown powered blogging app -  https://github.com/sharique/my-md-blog
+* Terraform setup  - https://github.com/sharique/AWS_grocery
+* UI and CSS assignments from different websites - https://github.com/sharique/designs-layouts
+* Color manager - https://github.com/sharique/ColorManager - using AI to bring back legacy app to life.
+
+Please start the repos that you find interesting.
 
 ---
 
 ## 🔧 What I actually do
 
-- **Architecture & delivery** — Building digital experiences for small oragnisations to enterprise clients.
+- **Architecture & delivery** — Building digital experiences for small organisations to enterprise clients.
 - **Open source** — Active Drupal contributor since 2007. Maintaining [Read Only Mode](https://www.drupal.org/project/readonly_mode), [Previewable Email Templates](https://www.drupal.org/project/previewable_email_templates), and a few more.
 - **Currently building** — Expanding into JavaScript/TypeScript Frameworks (Vue.js / Nuxt.js, Nest.js), AWS, IaC (Terraform) and AI integrations. 
-- **Community** — Speaker at Drupal Camp Poland, Drupal Camp Pune, and Gnunify. workshop facilitator for early-career developers
-- **Learning** - Clean Architecture, TDD, DDD, Go Lang, **How to stay offline**.
+- **Community** — Speaker at Drupal Camp Poland, Drupal Camp Pune, Gnunify, and a workshop facilitator for early-career developers
+- **Learning** — Clean Architecture, TDD, DDD, Go Lang, **How to stay offline**.
 
 ---
 
