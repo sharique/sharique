@@ -2,16 +2,16 @@
 
 Open source contributor, Drupal architect, and full stack developer based in **Berlin, Germany** 🇩🇪
 
-I started writing code in C and C++ during graduation and fell in love with programming. I found the perfect partner in Linux, which I've used as my primary OS ever since. Over the years, I've worked with various tech stacks and learned the strengths and weaknesses of each.
+I started writing code in C and C++ during graduation and fell in love with programming. I found the perfect partner in Linux, which I've used as my primary OS ever since. Over the years, I've worked with various tech stacks and learned the strengths and weaknesses of each. For most part of my career, I worked with Drupal.
 
-After working for quite some time with Drupal, I started exploring new tech again. I'm expanding my expertise in modern JavaScript frameworks, Cloud (AWS) and Infrastructure as Code (IaC). I've created repositories for projects I'm working on while learning new things, here's what I'm working on:
+After working for quite some time with Drupal, I started exploring new tech again. I'm expanding my expertise in modern JavaScript frameworks, Cloud (AWS) and Infrastructure as Code (IaC). I've created repositories for projects I'm working on while learning new things, here's things I'm working on:
 
 * Markdown powered blogging app -  https://github.com/sharique/my-md-blog
 * Terraform setup  - https://github.com/sharique/AWS_grocery
-* UI and CSS assignments from different websites - https://github.com/sharique/designs-layouts
+* Frontend assignments from different websites like https://www.frontendmentor.io/- https://github.com/sharique/designs-layouts
 * Color manager - https://github.com/sharique/ColorManager - using AI to bring back legacy app to life.
 
-Please start the repos that you find interesting.
+Please star the repos that you find interesting.
 
 ---
 
@@ -27,9 +27,9 @@ Please start the repos that you find interesting.
 
 ## 🛠️ Tech I work with
 
-**Core:** PHP · Drupal · Symfony · JavaScript · MySQL · Docker  
-**CI/CD:** GitLab CI/CD · Bitbucket Pipelines  
-**Cloud:** Acquia · Pantheon · Digital Ocean · Oracle OCI  
+**Core:** PHP · Drupal · Symfony · JavaScript · MySQL/MariaDB · Docker  
+**CI/CD:** GitLab CI/CD · Bitbucket Pipelines · GIthub Actions
+**Cloud:** Acquia · Pantheon · Digital Ocean · AWS 
 **Learning:** Vue.js · Nuxt.js · AWS · AI/ML integration · Terraform
 **Past:** Asp.net · C# · MS Sql · C++ · Qt
 
@@ -39,7 +39,7 @@ Please start the repos that you find interesting.
 
 - 🏅 Oracle OCI Generative AI Professional — Oct 2025
 - 🏅 Acquia Triple Certified Drupal 9
-- 🏅 Acquia Certified Grandmaster Drupal 8
+- 🏅 Acquia Triple Certified Drupal 8
 - 🔄 AWS Cloud Practitioner — in progress
 
 ---
