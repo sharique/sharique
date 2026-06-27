@@ -30,13 +30,15 @@ Structured upskilling toward cloud-native architecture and modern full-stack eng
 
 - **[GroceryStore IaC](https://github.com/sharique/AWS_grocery)** - Terraform project provisioning EC2, RDS, VPC, S3, and GitHub Actions pipelines on AWS. Built as part of Masterschool Cloud Engineering programme (Berlin, 2025–2026) and AWS certification preparation.
 
-- **[Markdown Blog App](https://github.com/sharique/my-md-blog)** - Vue.js / Nuxt.js application with routing, state management, and API integration. Actively developed via spec-driven development.
+- **[Folio - Markdown Blog App](https://github.com/sharique/folio)** - Vue.js / Nuxt.js application with routing, state management, and API integration. Actively developed via spec-driven development.
 
 - **[Todo App](https://github.com/sharique/todo-abcde)** - Vue.js application with priority categories. Public learning project.
 
 - **[Frontend Layouts](https://github.com/sharique/designs-layouts)** - Frontend component practice from [Frontend Mentor](https://www.frontendmentor.io/).
 
 - **[ColorManager](https://github.com/sharique/ColorManager)** - Proof of concept: using AI-assisted development to migrate a legacy desktop application to modern web technologies. Demonstrates the principle of AI as an accelerator in application modernisation - not production-scale, but a deliberate experiment in the approach.
+
+- **German Verb Help** *(private, in development)* - A mobile app powered by Hugging face hosted AI to learn and understand verbs.
 
 - **Project Management App** *(private, in development)* - Jira-like application with Go backend and Vue.js frontend. Acting as both Product Owner and Architect. Demonstrates structured delivery and architectural decision-making with an unfamiliar tech stack.
 
