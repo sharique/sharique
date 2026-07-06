@@ -28,6 +28,7 @@ Speaker at Drupal Camp Poland, Drupal Camp Pune, and Gnunify (~6 engagements). W
 
 Structured upskilling toward cloud-native architecture and modern full-stack engineering:
 
+- **[Mansooba](https://github.com/sharique/mansooba)** - Cloud-native project management application built in Go and Nuxt.js, deployable on AWS with Terraform. Acting as both Product Owner and Architect. Demonstrates structured delivery and architectural decision-making with an unfamiliar tech stack.
 - **[GroceryStore IaC](https://github.com/sharique/AWS_grocery)** - Terraform project provisioning EC2, RDS, VPC, S3, and GitHub Actions pipelines on AWS. Built as part of Masterschool Cloud Engineering programme (Berlin, 2025–2026) and AWS certification preparation.
 
 - **[Folio - Markdown Blog App](https://github.com/sharique/folio)** - Vue.js / Nuxt.js application with routing, state management, and API integration. Actively developed via spec-driven development.
@@ -38,9 +39,7 @@ Structured upskilling toward cloud-native architecture and modern full-stack eng
 
 - **[ColorManager](https://github.com/sharique/ColorManager)** - Proof of concept: using AI-assisted development to migrate a legacy desktop application to modern web technologies. Demonstrates the principle of AI as an accelerator in application modernisation - not production-scale, but a deliberate experiment in the approach.
 
-- **German Verb Help** *(private, in development)* - A mobile app powered by Hugging face hosted AI to learn and understand verbs.
-
-- **Project Management App** *(private, in development)* - Jira-like application with Go backend and Vue.js frontend. Acting as both Product Owner and Architect. Demonstrates structured delivery and architectural decision-making with an unfamiliar tech stack.
+- **German Verb Help** *(private, in development)* - A mobile app powered by Hugging Face-hosted AI model to learn and understand German verbs with meaning, conjugation and example sentances.
 
 ---
 
